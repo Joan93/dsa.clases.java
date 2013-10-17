@@ -3,6 +3,8 @@ dsa.clases.java
 
 Ejercicios sobre Clases Esenciales I en Java
 
+LOS ARCHIVOS DE TEXTO QUE LEO Y ESCRIBO EN EL PROGRAMA, LOS HE AÑADIDO EN UNA CARPETA LLAMADA "ARCHIVOS TXT"
+
 INSTRUCCIONES:
     Abrir Eclipse con el proyecto Maven.
     entrando al package correspondiente.
